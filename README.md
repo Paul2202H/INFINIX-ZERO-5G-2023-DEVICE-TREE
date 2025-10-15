@@ -1,19 +1,19 @@
-# CUSTOM RECOVERY DEVICE TREE FOR INFINIX ZERO ULTRA ( X6820 )
+# CUSTOM RECOVERY DEVICE TREE FOR INFINIX ZERO 5G 2023 ( X6815D )
 
 # Device SPecifications
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | Octa-core (2x2.5 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)
-Chipset | MediaTek Dimensity 930 (MT6877)
+CPU     | Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)
+Chipset | MediaTek Dimensity 1080 (MT6877)
 GPU     | Mali-G68 MC4
 Memory  | 8 GB RAM
 Shipped Android Version | 12
 Storage | 256 GB (UFS)
-Battery | 4500 mAh, non-removable
-Display | 1080 x 2400 pixels,6.8 inches, 60/120hz
+Battery | 5000 mAh, non-removable
+Display | 1080 x 2460 pixels,6.8 inches, 60/90/120hz
 
 # picture
-![infinixzeroultra](https://fdn2.gsmarena.com/vv/pics/infinix/infinix-zero-ultra-1.jpg)
+![infinixzero5g2023](https://fdn2.gsmarena.com/vv/pics/infinix/infinix-zero-5g-2023-turbo-2.jpg)
 
 # Checks
 Blocking checks
